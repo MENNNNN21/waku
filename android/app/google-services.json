@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690434437189",
+    "project_id": "waku-4e233",
+    "storage_bucket": "waku-4e233.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690434437189:android:75baa19f49ae04175b332c",
+        "android_client_info": {
+          "package_name": "com.example.waku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR71x7SBwRwOyKf1RddoggoZvhCCFZEd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
